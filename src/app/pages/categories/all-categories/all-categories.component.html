@@ -1,0 +1,9 @@
+<p>
+  all-categories works!
+</p>
+{{categories | json}}
+
+<br>
+<input type="text" #categoryName >
+<input type="text" #categoryDesc >
+<button (click)="addNewCategory(categoryName.value,categoryDesc.value)">Add New Category</button>

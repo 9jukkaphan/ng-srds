@@ -1,0 +1,69 @@
+{
+  "authors": [
+    {
+      "_firstName": "Jukkaphan",
+      "_lastName": "Onsila",
+      "_affiliation": "Junior Developer",
+      "_email": "Ton.agency@gmail.com",
+      "_phone": "091-424-6981",
+      "id": 6
+    },
+    {
+      "_firstName": "MyNameIs",
+      "_lastName": "LastName",
+      "_affiliation": "This is my Affiliation",
+      "_email": "thisIsMyEmail@gmail.com",
+      "_phone": "20326595",
+      "id": 7
+    },
+    {
+      "_firstName": "ZxZxXZZZX",
+      "_lastName": "xZXasdafasfBB",
+      "_affiliation": "ZXZX",
+      "_email": "ZX",
+      "_phone": "ZX",
+      "id": 8
+    },
+    {
+      "_firstName": "rtrkf",
+      "_lastName": "elkn",
+      "_affiliation": "lkfnew",
+      "_email": "lkfne",
+      "_phone": "lsdkfnsldf",
+      "id": 9
+    }
+  ],
+  "categories": [
+    {
+      "_name": "HTML",
+      "_description": "Web Language",
+      "id": 1
+    },
+    {
+      "_name": "Big Data",
+      "_description": "",
+      "id": 2
+    },
+    {
+      "_name": "AS",
+      "_description": "as",
+      "id": 3
+    },
+    {
+      "_name": "X",
+      "_description": "Zx",
+      "id": 4
+    },
+    {
+      "_name": "ertertery",
+      "_description": "eryeryery",
+      "id": 5
+    },
+    {
+      "_name": "adad",
+      "_description": "adsads",
+      "id": 6
+    }
+  ],
+  "papers": []
+}
